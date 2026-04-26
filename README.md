@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Dylan 👋
 
-<!--
-**dblend123/dblend123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Physics student working on CMS H→μμ analysis  
+💻 Interested in data analysis, ROOT, and machine learning  
+🚀 Currently working on VBF Higgs analysis  
 
-Here are some ideas to get you started:
+## 🔬 Projects
+- H→μμ analysis (CMS Open Data)
+- Tag-and-probe efficiency studies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/dylanblend/
+- Email: dblend@uiowa.edu
